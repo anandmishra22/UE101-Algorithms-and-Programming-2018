@@ -5,6 +5,11 @@ at Indian Institute of Science with Dr. Sathish G. and Dr. Viraj Kumar.
 <b>Lecture plans (coming soon)</b><br><br>
   
 Lecture-1: Trees<br>
+What is a tree?. Notions of parents, child, ancestor, descendant, siblings, leaves <br>
+depth, height, degree. Application of trees. Binary and complete binary tree. Left and right <br>
+tree. Deriving the formula related to internal nodes, leaves and heights etc. Tree traversal. <br>
+Implementation issues: Abstract data type for tree. C implementation of binary tree in terminal.
+
 Lecture-2: Searching (including BST)<br>
 Lecture-3: Sorting-1 (Heap sort)<br>
 Lecture-4: Sorting-2 (Merge sort)<br>
