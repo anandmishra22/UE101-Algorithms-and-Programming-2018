@@ -10,7 +10,7 @@ depth, height, degree. Application of trees. Binary and complete binary tree. Le
 tree. Deriving the formula related to internal nodes, leaves and heights etc. Tree traversal. <br>
 Implementation issues: Abstract data type for tree. C implementation of binary tree.
 
-<b>Lecture-2:<b> Searching (Linear and Binary search)<br>
+<b>Lecture-2:</b> Searching (Linear and Binary search)<br>
 Dictionary, unordered and ordered list, different operations in dictionary like<br>
 minimum, maximum, insertion, deletion, search. Array implementation of dictionary,<br>
 binary search tree: definition, search procedure, insertion and deletion procedure,<br>
