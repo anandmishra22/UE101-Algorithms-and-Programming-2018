@@ -2,7 +2,7 @@
 I will be co-teaching UE101-Algorithms-and-Programming to undergrads<br>
 at Indian Institute of Science with Dr. Sathish G. and Dr. Viraj Kumar.
 
-<b>Lecture plans (coming soon)</b><br><br>
+<b>Lecture plans </b><br><br>
   
 <b>Lecture-1:</b> Trees<br>
 What is a tree?. Notions of parents, child, ancestor, descendant, siblings, leaves <br>
