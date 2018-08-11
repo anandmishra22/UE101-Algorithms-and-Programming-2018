@@ -17,5 +17,6 @@ binary search tree: definition, search procedure, insertion and deletion procedu
 successor and predecessor in BST. C implementation of BST search procedure.<br>
 
 Lecture-3: Sorting-1 (Heap sort)<br>
+Binary heap: definition, minimum of a heap, height of heap,
 Lecture-4: Sorting-2 (Merge sort)<br>
 Lecture-5: Sorting-3 (Quick sort)<br>
