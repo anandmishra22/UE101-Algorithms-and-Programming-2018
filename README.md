@@ -16,10 +16,10 @@ minimum, maximum, insertion, deletion, search. Array implementation of dictionar
 binary search tree: definition, search procedure, insertion and deletion procedure,<br>
 successor and predecessor in BST. C implementation of BST search procedure.<br>
 
-Lecture-3: Sorting-1 (Heap sort)<br>
+<b>Lecture-3: Sorting-1 (Heap sort)</b><br>
 Binary heap: definition, minimum of a heap, height of heap,
 implementing heap using array, inserting in heap, heapify
 
 <br>
-Lecture-4: Sorting-2 (Merge sort)<br>
-Lecture-5: Sorting-3 (Quick sort)<br>
+<b>Lecture-4: Sorting-2 (Merge sort)</b><br>
+<b>Lecture-5: Sorting-3 (Quick sort)</b><br>
