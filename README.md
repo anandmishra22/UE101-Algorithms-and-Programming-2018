@@ -33,7 +33,7 @@ More on heap sort, Bubble <br>
 
 Lab assignment - 2 (5th week of October) -- To be prepared<br>
 
-<b>Lecture-4 Sorting-3 (More on sorting)- Oct 26,  2018</b><br>
+<b>Lecture-4 Sorting-3 (More on sorting)- Oct 25,  2018</b><br>
 Selection sort, Insertion sort
 
 
