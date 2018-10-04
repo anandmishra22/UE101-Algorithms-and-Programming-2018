@@ -19,7 +19,7 @@ minimum, maximum, insertion, deletion, search. Array implementation of dictionar
 binary search tree: definition, search procedure, insertion and deletion procedure,<br>
 successor and predecessor in BST. <br>
 
-<a href="https://drive.google.com/file/d/1gZ1SvqFvpj9JKHlTzJu8CX10puLgaVuR/view?usp=sharing"> Lab assignment - 1 </a> (3rd week of October)
+<a href="https://drive.google.com/file/d/1JIsr_Rb_SiggboSfxoI_cEIWtkXCB4oE/view?usp=sharing"> Lab assignment - 1 </a> (3rd week of October)
 
 <b>Lecture-3: Sorting-1 (Heap sort) -- Oct 22, 2018</b><br>
 Binary heap: definition, minimum of a heap, height of heap,<br>
