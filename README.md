@@ -7,7 +7,7 @@ at Indian Institute of Science with Dr. Sathish G. and Dr. Viraj Kumar.
 
 Lab assignment - 0 (2nd week of October)
 
-<b>Lecture-1: Trees</b> -- Oct 15, 2018<br>
+<b>Lecture-1: Trees -- Oct 15, 2018</b><br>
 What is a tree?. Notions of parents, child, ancestor, descendant, siblings, leaves <br>
 depth, height, degree. Application of trees. Binary and complete binary tree. Left and right <br>
 tree. Deriving the formula related to internal nodes, leaves and heights etc. Tree traversal. <br>
