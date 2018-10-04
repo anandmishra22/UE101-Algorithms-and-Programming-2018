@@ -3,7 +3,7 @@ I will be co-teaching UE101-Algorithms-and-Programming to undergrads<br>
 at Indian Institute of Science with Dr. Sathish G. and Dr. Viraj Kumar.
 
 <b>Lecture plans </b><br><br>
-<b>Lecture-0: Introduction to DSA (By Dr. Sathish G.)</b> -- ```html <font color="blue"> Oct 10, 2018 </font>```<br>
+<b>Lecture-0: Introduction to DSA (By Dr. Sathish G.)</b> -- <u>Oct 10, 2018</u> <br>
 
 Lab assignment - 0 (2nd week of October)
 
