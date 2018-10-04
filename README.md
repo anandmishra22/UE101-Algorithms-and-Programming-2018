@@ -31,7 +31,7 @@ implementing heap using array, inserting in heap, heapify
 <b>Lecture-4: Sorting-2 (More on Heap sort) -- Oct 24,  2018</b><br>
 More on heap sort, Bubble <br>
 
-<a href="">Lab assignment - 2 </a> (4th week of October)<br>
+Lab assignment - 2 (4th week of October) -- To be prepared<br>
 
 <b>Lecture-4 Sorting-3 (More on sorting)- Oct 26,  2018</b><br>
 Selection sort, Insertion sort
