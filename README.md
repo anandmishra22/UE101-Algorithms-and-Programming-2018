@@ -1,39 +1,65 @@
 # UE101-Algorithms-and-Programming-2018
-I will be co-teaching UE101-Algorithms-and-Programming to undergrads<br>
+I am co-teaching UE101-Algorithms-and-Programming to undergrads<br>
 at Indian Institute of Science with Dr. Sathish G. and Dr. Viraj Kumar.
+I offered five lectures for this course and co-ordinated labs for the
+two weak. I covered primarily data structure part (ADTs, stack, queue,
+binary tree, and BST).
 
 <b>Lecture plans </b><br><br>
-<b>Lecture-0: Introduction to DSA (By Dr. Sathish G.) -- Oct 10, 2018</b> <br>
 
-Lab assignment - 0 (3rd week of October)
+<b>Lecture-0: Introduction to DSA (By Dr. Sathish G.)
+ Brief overview of algorithm, time complexity, and stack/queues. 
+  -- Oct 10, 2018</b> <br>
 
-<b>Lecture-1: Trees -- Oct 15, 2018</b><br>
-What is a tree?. Notions of parents, child, ancestor, descendant, siblings, leaves <br>
-depth, height, degree. Application of trees. Binary and complete binary tree. Left and right <br>
-tree. Deriving the formula related to internal nodes, leaves and heights etc. Tree traversal. <br>
-Implementation issues: Abstract data type for tree.
+Text book: Mark Allen Weiss (Data Structure and Algorithm Analysis
+using C)
 
-<b>Lecture-2: Searching (Linear and Binary search) -- Oct 17, 2018</b> <br>
-Dictionary, unordered and ordered list, different operations in dictionary like<br>
-minimum, maximum, insertion, deletion, search. Array implementation of dictionary,<br>
-binary search tree: definition, search procedure, insertion and deletion procedure,<br>
-successor and predecessor in BST. <br>
+Binary Tree - 1 (Date: 15/10/2018)
+-----------------------------------------------------
+Covered: preliminaries of tree, like root, leaf, internal nodes, parent, sibling,
+ancestor, successor, height of tree, degree of nodes in tree, depth (level)
+of nodes in a tree. Applications of tree. We also covered about Complete
+Binary Tree, Full Binary Tree, Perfect Binary tree and their properties.
+Section - 4.1 and 4.2
 
-<a href="https://drive.google.com/file/d/1JIsr_Rb_SiggboSfxoI_cEIWtkXCB4oE/view?usp=sharing"> Lab assignment - 1 </a> (4th week of October)
+Binary Tree - 2 (Date: 17/10/2018)
+--------------------------------------------------
+Covered: learnt how to compute (i) number of internal and leaf nodes in a
+perfect binary tree, and relation between them, i.e., number of leaf nodes
+in a binary tree is greater or equal to number of internal nodes, etc ,
+(ii) height of perfect binary tree using induction.
+Section - 4.1 and 4.2
 
-<b>Lecture-3: Sorting-1 (Heap sort) -- Oct 22, 2018</b><br>
-Binary heap: definition, minimum of a heap, height of heap,<br>
-implementing heap using array, inserting in heap, heapify
-<br>
+Lab-1 (Date: 22/10/2018-25/10/2018)
+------------------------------------------------------
+BST construction, traversal (recursive), height of the tree, binary search
+procedure
 
-<a href="https://drive.google.com/file/d/1gZ1SvqFvpj9JKHlTzJu8CX10puLgaVuR/view?usp=sharing"> Assignment </a>: Oct 22, 2018  (Due: Oct 31, 2018)<br>
 
-<b>Lecture-4: Sorting-2 (More on Heap sort) -- Oct 24,  2018</b><br>
-More on heap sort, Bubble <br>
+Binary Tree  - 3 and BST - 1: (Date: 22/10/2018)
+-----------------------------------------------------------------------
+Tree walk/traversal: preorder, postorder, inorder, level-order,
+Dictionary: Ordered, unordered,
+BST:  Definition, Insertion, search
+Section 4.2, 4.3.4
 
-Lab assignment - 2 (5th week of October) -- To be prepared<br>
+BST-2: (Date: 24/10/2018)
+------------------------------------------------
+BST: procedures for finding successor, min, max, and delete a node,
+and their correctness
+Section 4.3.3, 4.3.5
 
-<b>Lecture-4 Sorting-3 (More on sorting)- Oct 25,  2018</b><br>
-Selection sort, Insertion sort
+ADT (Date: 26/10/2018)
+-------------------------------------
+Abstract data type: stack , queue
+Section-3.1, 3.3, 3.4
+
+<href="assignment-4.pdf"> Assignment </a>
+
+Lab-2 (Date: 29/10/2018 to 03/02/2018)
+---------------------------------------------------------
+(ii) Finding minimum in a BST, successor of a node, deleting node in
+BST, (I) Non-recursive implementation of level order (using queue) and
+preorder traversal (using stack).
 
 
